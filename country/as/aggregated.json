@@ -1,10 +1,10 @@
 {
-  "country" : "American Samoa",
-  "countryCode" : "AS",
-  "delegationStatus" : [ "allocated", "assigned" ],
-  "exportMode" : "aggregated",
-  "prefixes" : {
-    "ipv4" : [ "103.117.168.0/22", "202.70.112.0/20" ],
-    "ipv6" : [ "2403:1e00::/32", "2403:2140::/32" ]
+  "country": "American Samoa",
+  "countryCode": "AS",
+  "delegationStatus": [ "allocated", "assigned" ],
+  "exportMode": "aggregated",
+  "prefixes": {
+    "ipv4": [ "103.117.168.0/22", "202.70.112.0/20" ],
+    "ipv6": [ "2403:1e00::/32", "2403:2140::/32" ]
   }
 }
