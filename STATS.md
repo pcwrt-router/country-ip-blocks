@@ -4,11 +4,11 @@
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 443 | 1 590 | 7 033 |
 | APNIC | Asia Pacific | 80 | 54 063 | 16 773 | 70 836 |
-| ARIN | North America | 59 | 76 216 | 11 088 | 87 304 |
-| LACNIC | Latin America & Caribbean | 30 | 20 091 | 13 331 | 33 422 |
+| ARIN | North America | 59 | 76 225 | 11 092 | 87 317 |
+| LACNIC | Latin America & Caribbean | 30 | 20 099 | 13 330 | 33 429 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 100 386 | 26 637 | 127 023 |
 | | | | | | |
-| **Total** | | **237** | **256 199** | **69 419** | **325 618** |
+| **Total** | | **237** | **256 216** | **69 422** | **325 638** |
 
 ## Prefixes by Country
 
@@ -41,8 +41,8 @@
 | Bhutan (BT) | 43 | 23 | 66 |
 | Bolivia (BO) | 102 | 55 | 157 |
 | Bosnia & Herzegovina (BA) | 157 | 37 | 194 |
-| Botswana (BW) | 53 | 18 | 71 |
-| Brazil (BR) | 4 896 | 8 916 | 13 812 |
+| Botswana (BW) | 54 | 18 | 72 |
+| Brazil (BR) | 4 896 | 8 915 | 13 811 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 205 | 47 | 252 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -197,7 +197,7 @@
 | Saudi Arabia (SA) | 578 | 121 | 699 |
 | Senegal (SN) | 34 | 12 | 46 |
 | Serbia (RS) | 383 | 89 | 472 |
-| Seychelles (SC) | 797 | 729 | 1 526 |
+| Seychelles (SC) | 796 | 729 | 1 525 |
 | Sierra Leone (SL) | 30 | 9 | 39 |
 | Singapore (SG) | 1 706 | 460 | 2 166 |
 | Sint Maarten (SX) | 10 | 7 | 17 |
@@ -240,7 +240,7 @@
 | Ukraine (UA) | 2 657 | 618 | 3 275 |
 | United Arab Emirates (AE) | 1 115 | 586 | 1 701 |
 | United Kingdom (GB) | 8 187 | 2 021 | 10 208 |
-| United States (US) | 29 322 | 10 347 | 39 669 |
+| United States (US) | 29 324 | 10 351 | 39 675 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 156 | 48 | 204 |
 | Vanuatu (VU) | 20 | 10 | 30 |
@@ -252,4 +252,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **175 961** | **68 207** | **244 168** |
+| **Total** | **175 963** | **68 210** | **244 173** |
