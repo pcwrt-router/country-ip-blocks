@@ -4,11 +4,11 @@
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 447 | 1 591 | 7 038 |
 | APNIC | Asia Pacific | 80 | 54 089 | 16 783 | 70 872 |
-| ARIN | North America | 59 | 76 282 | 11 104 | 87 386 |
+| ARIN | North America | 59 | 76 284 | 11 107 | 87 391 |
 | LACNIC | Latin America & Caribbean | 30 | 20 102 | 13 341 | 33 443 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 100 444 | 26 648 | 127 092 |
 | | | | | | |
-| **Total** | | **237** | **256 364** | **69 467** | **325 831** |
+| **Total** | | **237** | **256 366** | **69 470** | **325 836** |
 
 ## Prefixes by Country
 
@@ -42,7 +42,7 @@
 | Bolivia (BO) | 102 | 55 | 157 |
 | Bosnia & Herzegovina (BA) | 157 | 37 | 194 |
 | Botswana (BW) | 54 | 18 | 72 |
-| Brazil (BR) | 4 896 | 8 922 | 13 818 |
+| Brazil (BR) | 4 896 | 8 921 | 13 817 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 205 | 47 | 252 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -178,7 +178,7 @@
 | Pakistan (PK) | 714 | 334 | 1 048 |
 | Palau (PW) | 4 | 3 | 7 |
 | Palestinian Territories (PS) | 243 | 45 | 288 |
-| Panama (PA) | 138 | 82 | 220 |
+| Panama (PA) | 138 | 83 | 221 |
 | Papua New Guinea (PG) | 64 | 26 | 90 |
 | Paraguay (PY) | 140 | 102 | 242 |
 | Peru (PE) | 231 | 213 | 444 |
@@ -240,7 +240,7 @@
 | Ukraine (UA) | 2 658 | 618 | 3 276 |
 | United Arab Emirates (AE) | 1 118 | 588 | 1 706 |
 | United Kingdom (GB) | 8 188 | 2 022 | 10 210 |
-| United States (US) | 29 331 | 10 358 | 39 689 |
+| United States (US) | 29 329 | 10 361 | 39 690 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 157 | 48 | 205 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -252,4 +252,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **176 037** | **68 255** | **244 292** |
+| **Total** | **176 035** | **68 258** | **244 293** |
