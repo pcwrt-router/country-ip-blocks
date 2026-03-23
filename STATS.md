@@ -240,7 +240,7 @@
 | Ukraine (UA) | 2 658 | 618 | 3 276 |
 | United Arab Emirates (AE) | 1 118 | 588 | 1 706 |
 | United Kingdom (GB) | 8 188 | 2 022 | 10 210 |
-| United States (US) | 29 329 | 10 361 | 39 690 |
+| United States (US) | 29 330 | 10 361 | 39 691 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 157 | 48 | 205 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -252,4 +252,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **176 035** | **68 258** | **244 293** |
+| **Total** | **176 036** | **68 258** | **244 294** |
