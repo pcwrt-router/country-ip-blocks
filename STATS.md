@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 460 | 1 598 | 7 058 |
-| APNIC | Asia Pacific | 80 | 54 165 | 16 797 | 70 962 |
-| ARIN | North America | 59 | 76 432 | 11 136 | 87 568 |
+| APNIC | Asia Pacific | 80 | 54 166 | 16 798 | 70 964 |
+| ARIN | North America | 59 | 76 435 | 11 137 | 87 572 |
 | LACNIC | Latin America & Caribbean | 30 | 20 143 | 13 353 | 33 496 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 100 567 | 26 655 | 127 222 |
 | | | | | | |
-| **Total** | | **237** | **256 767** | **69 539** | **326 306** |
+| **Total** | | **237** | **256 771** | **69 541** | **326 312** |
 
 ## Prefixes by Country
 
@@ -51,7 +51,7 @@
 | Burundi (BI) | 13 | 6 | 19 |
 | Cambodia (KH) | 274 | 93 | 367 |
 | Cameroon (CM) | 59 | 22 | 81 |
-| Canada (CA) | 6 257 | 1 116 | 7 373 |
+| Canada (CA) | 6 259 | 1 116 | 7 375 |
 | Cape Verde (CV) | 23 | 6 | 29 |
 | Caribbean Netherlands (BQ) | 12 | 6 | 18 |
 | Cayman Islands (KY) | 32 | 5 | 37 |
@@ -120,7 +120,7 @@
 | Israel (IL) | 755 | 156 | 911 |
 | Italy (IT) | 3 332 | 1 054 | 4 386 |
 | Jamaica (JM) | 51 | 10 | 61 |
-| Japan (JP) | 3 171 | 659 | 3 830 |
+| Japan (JP) | 3 172 | 660 | 3 832 |
 | Jersey (JE) | 42 | 10 | 52 |
 | Jordan (JO) | 127 | 40 | 167 |
 | Kazakhstan (KZ) | 578 | 92 | 670 |
@@ -224,7 +224,7 @@
 | Taiwan (TW) | 721 | 319 | 1 040 |
 | Tajikistan (TJ) | 56 | 21 | 77 |
 | Tanzania (TZ) | 188 | 71 | 259 |
-| Thailand (TH) | 646 | 201 | 847 |
+| Thailand (TH) | 646 | 202 | 848 |
 | Timor-Leste (TL) | 38 | 14 | 52 |
 | Togo (TG) | 17 | 8 | 25 |
 | Tokelau (TK) | 3 | 5 | 8 |
@@ -240,7 +240,7 @@
 | Ukraine (UA) | 2 661 | 619 | 3 280 |
 | United Arab Emirates (AE) | 1 122 | 588 | 1 710 |
 | United Kingdom (GB) | 8 186 | 2 026 | 10 212 |
-| United States (US) | 29 345 | 10 383 | 39 728 |
+| United States (US) | 29 346 | 10 383 | 39 729 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 162 | 48 | 210 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -252,4 +252,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **176 202** | **68 324** | **244 526** |
+| **Total** | **176 206** | **68 326** | **244 532** |
