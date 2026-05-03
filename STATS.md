@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 489 | 1 612 | 7 101 |
-| APNIC | Asia Pacific | 80 | 54 280 | 16 866 | 71 146 |
-| ARIN | North America | 60 | 76 421 | 11 203 | 87 624 |
+| APNIC | Asia Pacific | 80 | 54 282 | 16 868 | 71 150 |
+| ARIN | North America | 60 | 76 422 | 11 203 | 87 625 |
 | LACNIC | Latin America & Caribbean | 30 | 20 173 | 13 358 | 33 531 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 100 856 | 26 696 | 127 552 |
 | | | | | | |
-| **Total** | | **237** | **257 219** | **69 735** | **326 954** |
+| **Total** | | **237** | **257 222** | **69 737** | **326 959** |
 
 ## Prefixes by Country
 
@@ -111,7 +111,7 @@
 | Hong Kong SAR China (HK) | 2 971 | 908 | 3 879 |
 | Hungary (HU) | 649 | 170 | 819 |
 | Iceland (IS) | 154 | 71 | 225 |
-| India (IN) | 7 127 | 2 793 | 9 920 |
+| India (IN) | 7 129 | 2 795 | 9 924 |
 | Indonesia (ID) | 4 642 | 2 616 | 7 258 |
 | Iran (IR) | 1 713 | 570 | 2 283 |
 | Iraq (IQ) | 288 | 123 | 411 |
@@ -240,7 +240,7 @@
 | Ukraine (UA) | 2 658 | 619 | 3 277 |
 | United Arab Emirates (AE) | 1 141 | 591 | 1 732 |
 | United Kingdom (GB) | 8 189 | 2 031 | 10 220 |
-| United States (US) | 29 332 | 10 433 | 39 765 |
+| United States (US) | 29 333 | 10 433 | 39 766 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 162 | 48 | 210 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -252,4 +252,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **176 528** | **68 523** | **245 051** |
+| **Total** | **176 531** | **68 525** | **245 056** |
