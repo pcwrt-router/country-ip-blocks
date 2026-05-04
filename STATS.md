@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 489 | 1 612 | 7 101 |
-| APNIC | Asia Pacific | 80 | 54 282 | 16 868 | 71 150 |
+| APNIC | Asia Pacific | 80 | 54 283 | 16 868 | 71 151 |
 | ARIN | North America | 60 | 76 422 | 11 203 | 87 625 |
 | LACNIC | Latin America & Caribbean | 30 | 20 173 | 13 358 | 33 531 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 100 856 | 26 696 | 127 552 |
 | | | | | | |
-| **Total** | | **237** | **257 222** | **69 737** | **326 959** |
+| **Total** | | **237** | **257 223** | **69 737** | **326 960** |
 
 ## Prefixes by Country
 
