@@ -2,13 +2,13 @@
 
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
-| AFRINIC | Africa | 56 | 5 500 | 1 617 | 7 117 |
+| AFRINIC | Africa | 56 | 5 501 | 1 617 | 7 118 |
 | APNIC | Asia Pacific | 80 | 54 373 | 16 891 | 71 264 |
-| ARIN | North America | 59 | 76 414 | 11 212 | 87 626 |
-| LACNIC | Latin America & Caribbean | 30 | 20 186 | 13 376 | 33 562 |
+| ARIN | North America | 60 | 76 419 | 11 215 | 87 634 |
+| LACNIC | Latin America & Caribbean | 30 | 20 190 | 13 377 | 33 567 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 100 996 | 26 720 | 127 716 |
 | | | | | | |
-| **Total** | | **237** | **257 469** | **69 816** | **327 285** |
+| **Total** | | **238** | **257 479** | **69 820** | **327 299** |
 
 ## Prefixes by Country
 
@@ -22,6 +22,7 @@
 | Andorra (AD) | 25 | 2 | 27 |
 | Angola (AO) | 143 | 39 | 182 |
 | Anguilla (AI) | 9 | 3 | 12 |
+| Antarctica (AQ) | 3 | 1 | 4 |
 | Antigua & Barbuda (AG) | 45 | 9 | 54 |
 | Argentina (AR) | 1 600 | 1 138 | 2 738 |
 | Armenia (AM) | 187 | 55 | 242 |
@@ -36,13 +37,13 @@
 | Belarus (BY) | 104 | 32 | 136 |
 | Belgium (BE) | 924 | 326 | 1 250 |
 | Belize (BZ) | 130 | 29 | 159 |
-| Benin (BJ) | 37 | 15 | 52 |
+| Benin (BJ) | 38 | 15 | 53 |
 | Bermuda (BM) | 47 | 11 | 58 |
 | Bhutan (BT) | 45 | 24 | 69 |
 | Bolivia (BO) | 102 | 56 | 158 |
 | Bosnia & Herzegovina (BA) | 158 | 37 | 195 |
 | Botswana (BW) | 55 | 20 | 75 |
-| Brazil (BR) | 4 910 | 8 901 | 13 811 |
+| Brazil (BR) | 4 911 | 8 901 | 13 812 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 206 | 48 | 254 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -51,13 +52,13 @@
 | Burundi (BI) | 12 | 6 | 18 |
 | Cambodia (KH) | 274 | 93 | 367 |
 | Cameroon (CM) | 59 | 23 | 82 |
-| Canada (CA) | 6 274 | 1 125 | 7 399 |
+| Canada (CA) | 6 273 | 1 124 | 7 397 |
 | Cape Verde (CV) | 23 | 6 | 29 |
 | Caribbean Netherlands (BQ) | 12 | 6 | 18 |
 | Cayman Islands (KY) | 32 | 5 | 37 |
 | Central African Republic (CF) | 5 | 0 | 5 |
 | Chad (TD) | 20 | 5 | 25 |
-| Chile (CL) | 634 | 326 | 960 |
+| Chile (CL) | 635 | 327 | 962 |
 | China (CN) | 5 504 | 2 027 | 7 531 |
 | Colombia (CO) | 515 | 715 | 1 230 |
 | Comoros (KM) | 5 | 2 | 7 |
@@ -240,7 +241,7 @@
 | Ukraine (UA) | 2 660 | 619 | 3 279 |
 | United Arab Emirates (AE) | 1 146 | 592 | 1 738 |
 | United Kingdom (GB) | 8 195 | 2 033 | 10 228 |
-| United States (US) | 29 329 | 10 437 | 39 766 |
+| United States (US) | 29 331 | 10 440 | 39 771 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 162 | 48 | 210 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -252,4 +253,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **176 737** | **68 602** | **245 339** |
+| **Total** | **176 744** | **68 606** | **245 350** |
