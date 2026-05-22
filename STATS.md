@@ -2,13 +2,13 @@
 
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
-| AFRINIC | Africa | 56 | 5 505 | 1 619 | 7 124 |
-| APNIC | Asia Pacific | 80 | 54 386 | 16 892 | 71 278 |
+| AFRINIC | Africa | 56 | 5 508 | 1 621 | 7 129 |
+| APNIC | Asia Pacific | 80 | 54 390 | 16 894 | 71 284 |
 | ARIN | North America | 60 | 76 461 | 11 226 | 87 687 |
-| LACNIC | Latin America & Caribbean | 30 | 20 213 | 13 378 | 33 591 |
-| RIPE | Europe, Middle East & Central Asia | 125 | 101 052 | 26 729 | 127 781 |
+| LACNIC | Latin America & Caribbean | 30 | 20 216 | 13 379 | 33 595 |
+| RIPE | Europe, Middle East & Central Asia | 125 | 101 055 | 26 731 | 127 786 |
 | | | | | | |
-| **Total** | | **238** | **257 617** | **69 844** | **327 461** |
+| **Total** | | **238** | **257 630** | **69 851** | **327 481** |
 
 ## Prefixes by Country
 
@@ -27,12 +27,12 @@
 | Argentina (AR) | 1 600 | 1 138 | 2 738 |
 | Armenia (AM) | 187 | 55 | 242 |
 | Aruba (AW) | 12 | 3 | 15 |
-| Australia (AU) | 5 648 | 1 644 | 7 292 |
+| Australia (AU) | 5 649 | 1 644 | 7 293 |
 | Austria (AT) | 1 898 | 595 | 2 493 |
 | Azerbaijan (AZ) | 182 | 75 | 257 |
 | Bahamas (BS) | 26 | 6 | 32 |
 | Bahrain (BH) | 56 | 15 | 71 |
-| Bangladesh (BD) | 2 123 | 1 644 | 3 767 |
+| Bangladesh (BD) | 2 123 | 1 643 | 3 766 |
 | Barbados (BB) | 30 | 4 | 34 |
 | Belarus (BY) | 104 | 32 | 136 |
 | Belgium (BE) | 923 | 326 | 1 249 |
@@ -43,7 +43,7 @@
 | Bolivia (BO) | 102 | 56 | 158 |
 | Bosnia & Herzegovina (BA) | 158 | 37 | 195 |
 | Botswana (BW) | 55 | 20 | 75 |
-| Brazil (BR) | 4 909 | 8 902 | 13 811 |
+| Brazil (BR) | 4 911 | 8 902 | 13 813 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 207 | 48 | 255 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -75,7 +75,7 @@
 | Denmark (DK) | 1 278 | 415 | 1 693 |
 | Djibouti (DJ) | 9 | 4 | 13 |
 | Dominica (DM) | 13 | 6 | 19 |
-| Dominican Republic (DO) | 139 | 206 | 345 |
+| Dominican Republic (DO) | 139 | 207 | 346 |
 | Ecuador (EC) | 313 | 271 | 584 |
 | Egypt (EG) | 177 | 20 | 197 |
 | El Salvador (SV) | 75 | 45 | 120 |
@@ -87,14 +87,14 @@
 | Falkland Islands (FK) | 7 | 0 | 7 |
 | Faroe Islands (FO) | 14 | 4 | 18 |
 | Fiji (FJ) | 38 | 19 | 57 |
-| Finland (FI) | 981 | 311 | 1 292 |
-| France (FR) | 4 120 | 1 387 | 5 507 |
+| Finland (FI) | 981 | 312 | 1 293 |
+| France (FR) | 4 121 | 1 387 | 5 508 |
 | French Guiana (GF) | 6 | 6 | 12 |
 | French Polynesia (PF) | 19 | 7 | 26 |
 | Gabon (GA) | 25 | 8 | 33 |
 | Gambia (GM) | 24 | 10 | 34 |
 | Georgia (GE) | 315 | 79 | 394 |
-| Germany (DE) | 8 679 | 3 057 | 11 736 |
+| Germany (DE) | 8 679 | 3 058 | 11 737 |
 | Ghana (GH) | 149 | 54 | 203 |
 | Gibraltar (GI) | 73 | 13 | 86 |
 | Greece (GR) | 440 | 107 | 547 |
@@ -109,11 +109,11 @@
 | Guyana (GY) | 13 | 9 | 22 |
 | Haiti (HT) | 21 | 10 | 31 |
 | Honduras (HN) | 187 | 116 | 303 |
-| Hong Kong SAR China (HK) | 3 008 | 908 | 3 916 |
+| Hong Kong SAR China (HK) | 3 010 | 908 | 3 918 |
 | Hungary (HU) | 652 | 171 | 823 |
 | Iceland (IS) | 154 | 72 | 226 |
-| India (IN) | 7 139 | 2 804 | 9 943 |
-| Indonesia (ID) | 4 656 | 2 626 | 7 282 |
+| India (IN) | 7 141 | 2 804 | 9 945 |
+| Indonesia (ID) | 4 657 | 2 627 | 7 284 |
 | Iran (IR) | 1 716 | 570 | 2 286 |
 | Iraq (IQ) | 288 | 123 | 411 |
 | Ireland (IE) | 728 | 215 | 943 |
@@ -168,7 +168,7 @@
 | New Zealand (NZ) | 1 276 | 424 | 1 700 |
 | Nicaragua (NI) | 49 | 24 | 73 |
 | Niger (NE) | 12 | 4 | 16 |
-| Nigeria (NG) | 393 | 132 | 525 |
+| Nigeria (NG) | 394 | 133 | 527 |
 | Niue (NU) | 2 | 2 | 4 |
 | Norfolk Island (NF) | 2 | 1 | 3 |
 | Northern Mariana Islands (MP) | 5 | 1 | 6 |
@@ -176,14 +176,14 @@
 | North Macedonia (MK) | 105 | 42 | 147 |
 | Norway (NO) | 1 230 | 458 | 1 688 |
 | Oman (OM) | 76 | 24 | 100 |
-| Pakistan (PK) | 725 | 335 | 1 060 |
+| Pakistan (PK) | 726 | 336 | 1 062 |
 | Palau (PW) | 4 | 3 | 7 |
 | Palestinian Territories (PS) | 243 | 45 | 288 |
 | Panama (PA) | 160 | 83 | 243 |
 | Papua New Guinea (PG) | 63 | 25 | 88 |
 | Paraguay (PY) | 142 | 104 | 246 |
 | Peru (PE) | 232 | 222 | 454 |
-| Philippines (PH) | 814 | 356 | 1 170 |
+| Philippines (PH) | 813 | 356 | 1 169 |
 | Poland (PL) | 3 939 | 966 | 4 905 |
 | Portugal (PT) | 403 | 118 | 521 |
 | Puerto Rico (PR) | 208 | 71 | 279 |
@@ -206,7 +206,7 @@
 | Slovenia (SI) | 531 | 146 | 677 |
 | Solomon Islands (SB) | 12 | 8 | 20 |
 | Somalia (SO) | 30 | 14 | 44 |
-| South Africa (ZA) | 1 568 | 530 | 2 098 |
+| South Africa (ZA) | 1 569 | 530 | 2 099 |
 | South Korea (KR) | 999 | 141 | 1 140 |
 | South Sudan (SS) | 29 | 8 | 37 |
 | Spain (ES) | 3 404 | 887 | 4 291 |
@@ -224,8 +224,8 @@
 | Syria (SY) | 196 | 31 | 227 |
 | Taiwan (TW) | 724 | 317 | 1 041 |
 | Tajikistan (TJ) | 57 | 22 | 79 |
-| Tanzania (TZ) | 192 | 74 | 266 |
-| Thailand (TH) | 651 | 207 | 858 |
+| Tanzania (TZ) | 193 | 75 | 268 |
+| Thailand (TH) | 652 | 207 | 859 |
 | Timor-Leste (TL) | 38 | 14 | 52 |
 | Togo (TG) | 17 | 8 | 25 |
 | Tokelau (TK) | 3 | 5 | 8 |
@@ -238,7 +238,7 @@
 | Tuvalu (TV) | 1 | 2 | 3 |
 | U.S. Virgin Islands (VI) | 24 | 6 | 30 |
 | Uganda (UG) | 104 | 36 | 140 |
-| Ukraine (UA) | 2 660 | 619 | 3 279 |
+| Ukraine (UA) | 2 659 | 619 | 3 278 |
 | United Arab Emirates (AE) | 1 151 | 592 | 1 743 |
 | United Kingdom (GB) | 8 205 | 2 034 | 10 239 |
 | United States (US) | 29 354 | 10 444 | 39 798 |
@@ -247,10 +247,10 @@
 | Vanuatu (VU) | 20 | 11 | 31 |
 | Vatican City (VA) | 4 | 3 | 7 |
 | Venezuela (VE) | 217 | 222 | 439 |
-| Vietnam (VN) | 1 253 | 938 | 2 191 |
+| Vietnam (VN) | 1 254 | 939 | 2 193 |
 | Wallis & Futuna (WF) | 3 | 1 | 4 |
 | Yemen (YE) | 29 | 6 | 35 |
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **176 811** | **68 629** | **245 440** |
+| **Total** | **176 824** | **68 636** | **245 460** |
