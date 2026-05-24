@@ -4,11 +4,11 @@
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 509 | 1 622 | 7 131 |
 | APNIC | Asia Pacific | 80 | 54 394 | 16 900 | 71 294 |
-| ARIN | North America | 60 | 76 462 | 11 231 | 87 693 |
-| LACNIC | Latin America & Caribbean | 30 | 20 216 | 13 380 | 33 596 |
+| ARIN | North America | 60 | 76 464 | 11 233 | 87 697 |
+| LACNIC | Latin America & Caribbean | 30 | 20 219 | 13 381 | 33 600 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 101 064 | 26 736 | 127 800 |
 | | | | | | |
-| **Total** | | **238** | **257 645** | **69 869** | **327 514** |
+| **Total** | | **238** | **257 650** | **69 872** | **327 522** |
 
 ## Prefixes by Country
 
@@ -43,7 +43,7 @@
 | Bolivia (BO) | 102 | 56 | 158 |
 | Bosnia & Herzegovina (BA) | 158 | 37 | 195 |
 | Botswana (BW) | 55 | 20 | 75 |
-| Brazil (BR) | 4 911 | 8 902 | 13 813 |
+| Brazil (BR) | 4 911 | 8 903 | 13 814 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 207 | 48 | 255 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -52,7 +52,7 @@
 | Burundi (BI) | 12 | 6 | 18 |
 | Cambodia (KH) | 272 | 93 | 365 |
 | Cameroon (CM) | 59 | 23 | 82 |
-| Canada (CA) | 6 267 | 1 124 | 7 391 |
+| Canada (CA) | 6 267 | 1 123 | 7 390 |
 | Cape Verde (CV) | 23 | 6 | 29 |
 | Caribbean Netherlands (BQ) | 12 | 6 | 18 |
 | Cayman Islands (KY) | 32 | 5 | 37 |
@@ -241,7 +241,7 @@
 | Ukraine (UA) | 2 659 | 619 | 3 278 |
 | United Arab Emirates (AE) | 1 151 | 592 | 1 743 |
 | United Kingdom (GB) | 8 203 | 2 034 | 10 237 |
-| United States (US) | 29 355 | 10 450 | 39 805 |
+| United States (US) | 29 357 | 10 453 | 39 810 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 162 | 48 | 210 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **176 847** | **68 654** | **245 501** |
+| **Total** | **176 849** | **68 657** | **245 506** |
