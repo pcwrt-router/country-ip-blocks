@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 509 | 1 622 | 7 131 |
-| APNIC | Asia Pacific | 80 | 54 394 | 16 900 | 71 294 |
+| APNIC | Asia Pacific | 80 | 54 398 | 16 901 | 71 299 |
 | ARIN | North America | 60 | 76 464 | 11 233 | 87 697 |
 | LACNIC | Latin America & Caribbean | 30 | 20 219 | 13 381 | 33 600 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 101 064 | 26 736 | 127 800 |
 | | | | | | |
-| **Total** | | **238** | **257 650** | **69 872** | **327 522** |
+| **Total** | | **238** | **257 654** | **69 873** | **327 527** |
 
 ## Prefixes by Country
 
@@ -50,7 +50,7 @@
 | Bulgaria (BG) | 1 342 | 263 | 1 605 |
 | Burkina Faso (BF) | 51 | 28 | 79 |
 | Burundi (BI) | 12 | 6 | 18 |
-| Cambodia (KH) | 272 | 93 | 365 |
+| Cambodia (KH) | 273 | 93 | 366 |
 | Cameroon (CM) | 59 | 23 | 82 |
 | Canada (CA) | 6 267 | 1 123 | 7 390 |
 | Cape Verde (CV) | 23 | 6 | 29 |
@@ -171,7 +171,7 @@
 | Nigeria (NG) | 394 | 133 | 527 |
 | Niue (NU) | 2 | 2 | 4 |
 | Norfolk Island (NF) | 2 | 1 | 3 |
-| Northern Mariana Islands (MP) | 5 | 1 | 6 |
+| Northern Mariana Islands (MP) | 7 | 1 | 8 |
 | North Korea (KP) | 1 | 0 | 1 |
 | North Macedonia (MK) | 105 | 42 | 147 |
 | Norway (NO) | 1 230 | 459 | 1 689 |
@@ -183,7 +183,7 @@
 | Papua New Guinea (PG) | 63 | 25 | 88 |
 | Paraguay (PY) | 142 | 104 | 246 |
 | Peru (PE) | 232 | 222 | 454 |
-| Philippines (PH) | 814 | 357 | 1 171 |
+| Philippines (PH) | 812 | 356 | 1 168 |
 | Poland (PL) | 3 939 | 966 | 4 905 |
 | Portugal (PT) | 403 | 118 | 521 |
 | Puerto Rico (PR) | 208 | 71 | 279 |
@@ -225,7 +225,7 @@
 | Taiwan (TW) | 724 | 317 | 1 041 |
 | Tajikistan (TJ) | 57 | 22 | 79 |
 | Tanzania (TZ) | 193 | 75 | 268 |
-| Thailand (TH) | 652 | 207 | 859 |
+| Thailand (TH) | 654 | 208 | 862 |
 | Timor-Leste (TL) | 38 | 14 | 52 |
 | Togo (TG) | 17 | 8 | 25 |
 | Tokelau (TK) | 3 | 5 | 8 |
@@ -247,10 +247,10 @@
 | Vanuatu (VU) | 20 | 11 | 31 |
 | Vatican City (VA) | 4 | 3 | 7 |
 | Venezuela (VE) | 217 | 222 | 439 |
-| Vietnam (VN) | 1 254 | 939 | 2 193 |
+| Vietnam (VN) | 1 255 | 940 | 2 195 |
 | Wallis & Futuna (WF) | 3 | 1 | 4 |
 | Yemen (YE) | 29 | 6 | 35 |
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **176 849** | **68 657** | **245 506** |
+| **Total** | **176 853** | **68 658** | **245 511** |
