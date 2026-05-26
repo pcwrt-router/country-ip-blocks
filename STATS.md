@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 509 | 1 622 | 7 131 |
-| APNIC | Asia Pacific | 80 | 54 398 | 16 901 | 71 299 |
+| APNIC | Asia Pacific | 80 | 54 399 | 16 896 | 71 295 |
 | ARIN | North America | 60 | 76 464 | 11 233 | 87 697 |
 | LACNIC | Latin America & Caribbean | 30 | 20 219 | 13 381 | 33 600 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 101 064 | 26 736 | 127 800 |
 | | | | | | |
-| **Total** | | **238** | **257 654** | **69 873** | **327 527** |
+| **Total** | | **238** | **257 655** | **69 868** | **327 523** |
 
 ## Prefixes by Country
 
@@ -32,7 +32,7 @@
 | Azerbaijan (AZ) | 182 | 75 | 257 |
 | Bahamas (BS) | 26 | 6 | 32 |
 | Bahrain (BH) | 56 | 15 | 71 |
-| Bangladesh (BD) | 2 123 | 1 643 | 3 766 |
+| Bangladesh (BD) | 2 121 | 1 639 | 3 760 |
 | Barbados (BB) | 30 | 4 | 34 |
 | Belarus (BY) | 104 | 32 | 136 |
 | Belgium (BE) | 923 | 326 | 1 249 |
@@ -59,7 +59,7 @@
 | Central African Republic (CF) | 5 | 0 | 5 |
 | Chad (TD) | 20 | 5 | 25 |
 | Chile (CL) | 635 | 327 | 962 |
-| China (CN) | 5 501 | 2 027 | 7 528 |
+| China (CN) | 5 500 | 2 026 | 7 526 |
 | Colombia (CO) | 517 | 715 | 1 232 |
 | Comoros (KM) | 5 | 2 | 7 |
 | Congo - Brazzaville (CG) | 22 | 10 | 32 |
@@ -109,11 +109,11 @@
 | Guyana (GY) | 13 | 9 | 22 |
 | Haiti (HT) | 21 | 10 | 31 |
 | Honduras (HN) | 187 | 116 | 303 |
-| Hong Kong SAR China (HK) | 3 010 | 908 | 3 918 |
+| Hong Kong SAR China (HK) | 3 009 | 905 | 3 914 |
 | Hungary (HU) | 652 | 171 | 823 |
 | Iceland (IS) | 154 | 72 | 226 |
-| India (IN) | 7 141 | 2 806 | 9 947 |
-| Indonesia (ID) | 4 658 | 2 628 | 7 286 |
+| India (IN) | 7 142 | 2 806 | 9 948 |
+| Indonesia (ID) | 4 659 | 2 630 | 7 289 |
 | Iran (IR) | 1 716 | 570 | 2 286 |
 | Iraq (IQ) | 288 | 123 | 411 |
 | Ireland (IE) | 728 | 215 | 943 |
@@ -121,7 +121,7 @@
 | Israel (IL) | 759 | 158 | 917 |
 | Italy (IT) | 3 345 | 1 060 | 4 405 |
 | Jamaica (JM) | 51 | 10 | 61 |
-| Japan (JP) | 3 187 | 664 | 3 851 |
+| Japan (JP) | 3 188 | 664 | 3 852 |
 | Jersey (JE) | 45 | 10 | 55 |
 | Jordan (JO) | 127 | 40 | 167 |
 | Kazakhstan (KZ) | 590 | 93 | 683 |
@@ -183,7 +183,7 @@
 | Papua New Guinea (PG) | 63 | 25 | 88 |
 | Paraguay (PY) | 142 | 104 | 246 |
 | Peru (PE) | 232 | 222 | 454 |
-| Philippines (PH) | 812 | 356 | 1 168 |
+| Philippines (PH) | 813 | 357 | 1 170 |
 | Poland (PL) | 3 939 | 966 | 4 905 |
 | Portugal (PT) | 403 | 118 | 521 |
 | Puerto Rico (PR) | 208 | 71 | 279 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **176 853** | **68 658** | **245 511** |
+| **Total** | **176 853** | **68 653** | **245 506** |
