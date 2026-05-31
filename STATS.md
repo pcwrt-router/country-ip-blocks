@@ -2,13 +2,13 @@
 
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
-| AFRINIC | Africa | 56 | 5 509 | 1 622 | 7 131 |
-| APNIC | Asia Pacific | 80 | 54 406 | 16 900 | 71 306 |
-| ARIN | North America | 60 | 76 470 | 11 248 | 87 718 |
-| LACNIC | Latin America & Caribbean | 30 | 20 224 | 13 388 | 33 612 |
+| AFRINIC | Africa | 56 | 5 511 | 1 622 | 7 133 |
+| APNIC | Asia Pacific | 80 | 54 406 | 16 901 | 71 307 |
+| ARIN | North America | 60 | 76 471 | 11 251 | 87 722 |
+| LACNIC | Latin America & Caribbean | 30 | 20 227 | 13 389 | 33 616 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 101 128 | 26 760 | 127 888 |
 | | | | | | |
-| **Total** | | **238** | **257 737** | **69 918** | **327 655** |
+| **Total** | | **238** | **257 743** | **69 923** | **327 666** |
 
 ## Prefixes by Country
 
@@ -43,16 +43,16 @@
 | Bolivia (BO) | 102 | 56 | 158 |
 | Bosnia & Herzegovina (BA) | 158 | 37 | 195 |
 | Botswana (BW) | 55 | 20 | 75 |
-| Brazil (BR) | 4 911 | 8 905 | 13 816 |
+| Brazil (BR) | 4 911 | 8 906 | 13 817 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 207 | 48 | 255 |
 | Brunei (BN) | 35 | 9 | 44 |
 | Bulgaria (BG) | 1 342 | 263 | 1 605 |
 | Burkina Faso (BF) | 51 | 28 | 79 |
 | Burundi (BI) | 12 | 6 | 18 |
-| Cambodia (KH) | 273 | 93 | 366 |
+| Cambodia (KH) | 273 | 94 | 367 |
 | Cameroon (CM) | 59 | 23 | 82 |
-| Canada (CA) | 6 268 | 1 123 | 7 391 |
+| Canada (CA) | 6 269 | 1 124 | 7 393 |
 | Cape Verde (CV) | 23 | 6 | 29 |
 | Caribbean Netherlands (BQ) | 12 | 6 | 18 |
 | Cayman Islands (KY) | 32 | 5 | 37 |
@@ -158,7 +158,7 @@
 | Montenegro (ME) | 47 | 20 | 67 |
 | Montserrat (MS) | 2 | 0 | 2 |
 | Morocco (MA) | 77 | 27 | 104 |
-| Mozambique (MZ) | 56 | 18 | 74 |
+| Mozambique (MZ) | 57 | 18 | 75 |
 | Myanmar (Burma) (MM) | 232 | 129 | 361 |
 | Namibia (NA) | 38 | 9 | 47 |
 | Nauru (NR) | 7 | 2 | 9 |
@@ -224,7 +224,7 @@
 | Syria (SY) | 196 | 31 | 227 |
 | Taiwan (TW) | 724 | 317 | 1 041 |
 | Tajikistan (TJ) | 57 | 22 | 79 |
-| Tanzania (TZ) | 193 | 75 | 268 |
+| Tanzania (TZ) | 194 | 75 | 269 |
 | Thailand (TH) | 655 | 209 | 864 |
 | Timor-Leste (TL) | 38 | 14 | 52 |
 | Togo (TG) | 17 | 8 | 25 |
@@ -241,7 +241,7 @@
 | Ukraine (UA) | 2 659 | 619 | 3 278 |
 | United Arab Emirates (AE) | 1 149 | 592 | 1 741 |
 | United Kingdom (GB) | 8 208 | 2 035 | 10 243 |
-| United States (US) | 29 367 | 10 467 | 39 834 |
+| United States (US) | 29 367 | 10 469 | 39 836 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 162 | 48 | 210 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **176 930** | **68 701** | **245 631** |
+| **Total** | **176 933** | **68 706** | **245 639** |
