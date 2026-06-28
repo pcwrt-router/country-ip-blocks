@@ -4,11 +4,11 @@
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 538 | 1 632 | 7 170 |
 | APNIC | Asia Pacific | 80 | 57 820 | 16 948 | 74 768 |
-| ARIN | North America | 61 | 76 429 | 11 307 | 87 736 |
-| LACNIC | Latin America & Caribbean | 30 | 20 254 | 13 432 | 33 686 |
+| ARIN | North America | 61 | 76 435 | 11 313 | 87 748 |
+| LACNIC | Latin America & Caribbean | 30 | 20 254 | 13 437 | 33 691 |
 | RIPE | Europe, Middle East & Central Asia | 124 | 101 322 | 26 701 | 128 023 |
 | | | | | | |
-| **Total** | | **238** | **261 363** | **70 020** | **331 383** |
+| **Total** | | **238** | **261 369** | **70 031** | **331 400** |
 
 ## Prefixes by Country
 
@@ -24,7 +24,7 @@
 | Anguilla (AI) | 9 | 3 | 12 |
 | Antarctica (AQ) | 3 | 1 | 4 |
 | Antigua & Barbuda (AG) | 46 | 9 | 55 |
-| Argentina (AR) | 1 598 | 1 139 | 2 737 |
+| Argentina (AR) | 1 598 | 1 140 | 2 738 |
 | Armenia (AM) | 187 | 53 | 240 |
 | Aruba (AW) | 12 | 3 | 15 |
 | Australia (AU) | 5 656 | 1 648 | 7 304 |
@@ -43,7 +43,7 @@
 | Bolivia (BO) | 102 | 56 | 158 |
 | Bosnia & Herzegovina (BA) | 158 | 38 | 196 |
 | Botswana (BW) | 56 | 20 | 76 |
-| Brazil (BR) | 4 925 | 8 921 | 13 846 |
+| Brazil (BR) | 4 925 | 8 923 | 13 848 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 211 | 48 | 259 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -52,15 +52,15 @@
 | Burundi (BI) | 12 | 6 | 18 |
 | Cambodia (KH) | 273 | 94 | 367 |
 | Cameroon (CM) | 59 | 23 | 82 |
-| Canada (CA) | 6 283 | 1 132 | 7 415 |
+| Canada (CA) | 6 282 | 1 132 | 7 414 |
 | Cape Verde (CV) | 23 | 6 | 29 |
 | Caribbean Netherlands (BQ) | 12 | 6 | 18 |
 | Cayman Islands (KY) | 32 | 5 | 37 |
 | Central African Republic (CF) | 5 | 0 | 5 |
 | Chad (TD) | 20 | 5 | 25 |
-| Chile (CL) | 641 | 329 | 970 |
+| Chile (CL) | 641 | 330 | 971 |
 | China (CN) | 5 502 | 2 027 | 7 529 |
-| Colombia (CO) | 518 | 724 | 1 242 |
+| Colombia (CO) | 518 | 725 | 1 243 |
 | Comoros (KM) | 6 | 2 | 8 |
 | Congo - Brazzaville (CG) | 22 | 10 | 32 |
 | Congo - Kinshasa (CD) | 83 | 23 | 106 |
@@ -186,7 +186,7 @@
 | Philippines (PH) | 818 | 363 | 1 181 |
 | Poland (PL) | 3 943 | 971 | 4 914 |
 | Portugal (PT) | 403 | 118 | 521 |
-| Puerto Rico (PR) | 208 | 71 | 279 |
+| Puerto Rico (PR) | 208 | 72 | 280 |
 | Qatar (QA) | 47 | 21 | 68 |
 | Réunion (RE) | 24 | 6 | 30 |
 | Romania (RO) | 2 431 | 272 | 2 703 |
@@ -241,7 +241,7 @@
 | Ukraine (UA) | 2 656 | 620 | 3 276 |
 | United Arab Emirates (AE) | 1 186 | 591 | 1 777 |
 | United Kingdom (GB) | 8 182 | 2 027 | 10 209 |
-| United States (US) | 29 349 | 10 502 | 39 851 |
+| United States (US) | 29 354 | 10 507 | 39 861 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 165 | 48 | 213 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **177 207** | **68 799** | **246 006** |
+| **Total** | **177 211** | **68 810** | **246 021** |
