@@ -222,7 +222,7 @@
 | Sweden (SE) | 1 991 | 854 | 2 845 |
 | Switzerland (CH) | 2 672 | 871 | 3 543 |
 | Syria (SY) | 196 | 31 | 227 |
-| Taiwan (TW) | 727 | 320 | 1 047 |
+| Taiwan (TW) | 728 | 321 | 1 049 |
 | Tajikistan (TJ) | 58 | 22 | 80 |
 | Tanzania (TZ) | 195 | 75 | 270 |
 | Thailand (TH) | 663 | 214 | 877 |
@@ -241,7 +241,7 @@
 | Ukraine (UA) | 2 656 | 620 | 3 276 |
 | United Arab Emirates (AE) | 1 186 | 591 | 1 777 |
 | United Kingdom (GB) | 8 182 | 2 027 | 10 209 |
-| United States (US) | 29 354 | 10 507 | 39 861 |
+| United States (US) | 29 353 | 10 506 | 39 859 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 165 | 48 | 213 |
 | Vanuatu (VU) | 20 | 11 | 31 |
